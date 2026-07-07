@@ -13,4 +13,4 @@ class Solution:
             else:
                 olas += 1
                 target -= 1
-        return olas
+        return olas #runtime 0ms, solution based on basic python and mathematics knowledge
