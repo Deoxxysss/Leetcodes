@@ -11,4 +11,4 @@ class Solution:
         for i in digits:
             gola +=i
             mola = mola*i
-        return mola - gola
+        return mola - gola  #runtime 0ms
