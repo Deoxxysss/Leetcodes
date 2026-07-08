@@ -8,4 +8,4 @@ class Solution:
             else:
                 num = num - 1
                 i += 1
-        return i
+        return i #runtime 0ms
